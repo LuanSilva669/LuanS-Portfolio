@@ -179,7 +179,7 @@ ul#nav li a {
 }
 
 ul#nav li a:active { background-color: transparent !important; }
-ul#nav li.current a { color: #F06000; }
+ul#nav li.current a { color: #009cf0; }
 
 
 /* ------------------------------------------------------------------ */
@@ -886,7 +886,7 @@ call-to-action .button {
    width: 65%;
    margin-left: 26%;
 }
-#message-warning { color: #D72828; }
+#message-warning { color: #361a1a; }
 #message-success { color: #11ABB0; }
 
 #message-warning i,
