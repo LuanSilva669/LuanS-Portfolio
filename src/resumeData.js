@@ -81,6 +81,11 @@ let resumeData = {
         "name":"project3",
         "imgurl":"/page3.png",
         "link" :"https://interactive-rating-component-main-peach-xi.vercel.app/",
+      },
+      {
+        "name":"project3",
+        "imgurl":"/page4.png",
+        "link" :"https://password-generator-eosin-delta.vercel.app/",
       }
     ],
  
