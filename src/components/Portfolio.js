@@ -15,7 +15,10 @@ export default class Porfolio extends Component {
                 return (
                   <div className="columns portfolio-item">
                     <div className="item-wrap">
-                      <a href={item.link} target="_blank" rel="noopener noreferrer">
+                    <a href={item.link} onClick={(event) => {
+  window.open(item.link, '_blank');
+  event.preventDefault();
+}}>
                         <img src={item.imgurl} className="item-img" />
                         <div className="overlay">
                           <div className="portfolio-item-meta">
