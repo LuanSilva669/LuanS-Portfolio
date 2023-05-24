@@ -91,6 +91,11 @@ let resumeData = {
         "name":"project4",
         "imgurl":"/page5.png",
         "link" :"https://femcal.vercel.app/",
+      },
+        {
+        "name":"project6",
+        "imgurl":"/page6.png",
+        "link" :"",
       }
     ],
  
