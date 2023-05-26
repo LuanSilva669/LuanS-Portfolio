@@ -22,6 +22,7 @@ export default class Footer extends Component {
           
         </div>
         <div id="go-top"><a className="smoothscroll" title="Back to Top" href="#home"><i className="icon-up-open" /></a></div>
+        <a href="https://github.com/LuanSilva669/LuanS-Portfolio" target='_blank' rel="noreferrer">Repository on GitHub</a>
       </div>
     </footer>
     );
