@@ -37,5 +37,4 @@ npm run start
 
 ## Desenvolvedor
 
-Heder Alves - 
-https://www.linkedin.com/in/hederalves/
+Luan Silva
