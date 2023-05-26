@@ -35,7 +35,8 @@ If you are looking for a front-end developer with a strong interest in technolog
                      Brazil
                     </span>
                     <br></br>
-                    <span>https://www.linkedin.com/in/luan-silva-8a246921b/</span>
+                    <a href="https://api.whatsapp.com/send?phone=5541995769563&text=Ol%C3%A1%2C%20gostaria%20de%20mais%20informa%C3%A7%C3%B5es." target="_blank">+55 41 99576 9563</a>
+
        					   </p>
                   </div>
                </div>
