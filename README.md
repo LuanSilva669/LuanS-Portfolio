@@ -11,7 +11,7 @@ Apresento-lhe o meu portfólio profissional, cujo objetivo é promover minha atu
 ![1-image-portifolio-desktop]()
 
 ## Layout mobile
-![Resposive](https://user-images.githubusercontent.com/83372052/188477416-57ab4267-940b-43fb-8157-24f1d353a7b2.jpg)
+![Resposive]()
 
 
 
