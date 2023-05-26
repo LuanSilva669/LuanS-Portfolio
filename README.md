@@ -18,7 +18,6 @@ Apresento-lhe o meu portfólio profissional, cujo objetivo é promover minha atu
 # Tecnologias utilizadas
 
 - ReactJS
-- TailwindCSS
 - JavaScript
 - HTML
 - CSS
