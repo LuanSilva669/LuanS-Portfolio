@@ -28,7 +28,7 @@ Pré-requisitos: npm
 
 ```bash
 ** clonar repositório **
-git clone git@github.com:HederAlves/portifolio.git
+git clone git@github.com:
 
 ** executar o projeto **
 npm run start
