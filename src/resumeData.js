@@ -77,22 +77,22 @@ let resumeData = {
     "portfolio":[
       {
         "name":"project1",
-        "imgurl":"/public/images/page1.png",
+        "imgurl":"/page1.png",
         "link" :"https://socialpage-eight.vercel.app/",
       },
       {
         "name":"project2",
-        "imgurl":"/public/images/page2.png",
+        "imgurl":"/page2.png",
         "link" :"https://qr-code-component-main-beta-three.vercel.app/",
       },
       {
         "name":"project3",
-        "imgurl":"/public/images/page3.png",
+        "imgurl":"/page3.png",
         "link" :"https://interactive-rating-component-main-peach-xi.vercel.app/",
       },
       {
         "name":"project3",
-        "imgurl":"/public/images/page4.png",
+        "imgurl":"/page4.png",
         "link" :"https://password-generator-eosin-delta.vercel.app/",
       },
     ],
