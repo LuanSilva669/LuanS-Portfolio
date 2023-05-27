@@ -78,7 +78,7 @@ let resumeData = {
       {
         "name":"project1",
         "imgurl":"/page1.png",
-        "link" :"https://next-challenge-pi.vercel.app/",
+        "link" :"https://socialpage-eight.vercel.app/",
       },
       {
         "name":"project2",
@@ -95,11 +95,7 @@ let resumeData = {
         "imgurl":"/page4.png",
         "link" :"https://password-generator-eosin-delta.vercel.app/",
       },
-      {
-        "name":"project4",
-        "imgurl":"/page5.png",
-        "link" :"https://femcal.vercel.app/",
-      },
+     
         {
         "name":"project6",
         "imgurl":"/page6.png",
