@@ -95,12 +95,6 @@ let resumeData = {
         "imgurl":"/page4.png",
         "link" :"https://password-generator-eosin-delta.vercel.app/",
       },
-     
-        {
-        "name":"project6",
-        "imgurl":"/page6.png",
-        "link" :"",
-      }
     ],
  
   }
